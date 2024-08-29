@@ -1,4 +1,6 @@
 # Linux OS
+Formålet med dagens emne er at du bliver fortrolig med at bruge Linux. Det er en lejeplads og jo mere du leger des bedre er det!
+
 
 ## Læringsmål
 * Installere Docker Desktop på din computer
